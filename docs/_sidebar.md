@@ -1,2 +1,2 @@
-* [mybatis](/java/mybatis/MyBatis.md)
+* [mybatis](/java/mybatis/README)
 * [spring](/java/spring/Spring.md)
