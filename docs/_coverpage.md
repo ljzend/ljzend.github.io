@@ -1,7 +1,8 @@
-![logo](_media/icon.svg)
-# docsify <small>3.5</small>
+![logo](preview.jpg)
 
-> 个人博客。
+> 个人博客
+
+> ljzend
 
 - 学习笔记
 
