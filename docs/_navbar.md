@@ -7,6 +7,7 @@
   * [linux](/java/linux/linux命令)
   * [maven](/java/maven/Maven)
   * [mybatis](/java/mybatis/Mybatis)
+  * [rabbitmq](/java/rabbitmq/rabbitmq)
   * [redis](/java/redis/Redis)
   * [spring](/java/spring/Spring)
   * [springcloud](/java/springcloud/SpringCloud微服务工具集v1.1)
