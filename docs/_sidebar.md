@@ -15,5 +15,6 @@
   - [spring](/java/spring/Spring)
   - [springcloud](/java/springcloud/SpringCloud微服务工具集v1.1)
   - [springcloudalibaba](/java/springcloud/SpringCloudAlibaba)
+  - [es](/java/es/ElasticSearch7.14)
   - [springmvc](/java/springmvc/SpringMVC)
   - [springSecurity](/java/springSecurity/springSecurity)

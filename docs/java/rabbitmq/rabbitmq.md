@@ -197,7 +197,7 @@ services:
     networks:
       container:
 
-  ibana:
+  kibana:
    image: kibana:7.14.0
    container_name: kibana
    volumes:
